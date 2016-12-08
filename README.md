@@ -20,7 +20,7 @@ Understanding the trends of motor vehicle thefts in Chicago by analyzing the dat
 
 Graphplots to help us better understand how crime has changed over time in Chicago.
 
-Inline-style: 
+
 ![alt text](https://github.com/Nazgul698/Analysis-using-R/blob/master/Rplot01.png?raw=true "Logo Title Text 1")
-Inline-style: 
+
 ![alt text](https://github.com/Nazgul698/Analysis-using-R/blob/master/Rplot02.png?raw=true "Logo Title Text 1")
